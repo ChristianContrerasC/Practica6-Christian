@@ -49,7 +49,12 @@
 #include "TIMER.h"
 
 
-
+#define _40MHZ 9
+#define _20MHZ 19
+#define _10MHZ 39
+#define _50MHZ 0x07
+#define _25MHZ 0x0F
+#define _80MHZ 0x04 
 
 
 
